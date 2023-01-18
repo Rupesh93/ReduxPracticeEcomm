@@ -2,3 +2,21 @@
   text-align: center;
 }
 
+.cart-wrapper{
+  height: 100%;
+  width: 300px;
+  border: 1px solid #ccc;
+}
+.img-wrapper img{
+  width: 100px;
+
+}
+
+.btn-wrapper button{
+   background: red;
+   border: 0px;
+   padding: 10px;
+   border-radius: 4px;
+   color: #fff;
+   margin: 10px 0px;
+}
