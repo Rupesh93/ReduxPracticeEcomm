@@ -13,10 +13,10 @@
 }
 
 .btn-wrapper button{
-   background: red;
    border: 0px;
    padding: 10px;
    border-radius: 4px;
    color: #fff;
    margin: 10px 0px;
+   background:red;
 }
